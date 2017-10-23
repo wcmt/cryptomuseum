@@ -1,4 +1,4 @@
-Pre ICO address:
+Pre ICO:
 --------------------
 ENG: https://wcmt.co
 --------------------
