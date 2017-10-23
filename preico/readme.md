@@ -1,5 +1,12 @@
 Pre ICO address:
-https://wcmt.co
+--------------------
+ENG: https://wcmt.co
+--------------------
+RU: https://ru.wcmt.co
+--------------------
+ES: https://es.wcmt.co
+--------------------
+CN: https://cn.wcmt.co
 --------------------
 Contract: 0x638dB321775E03cf4c29207E0Bb228BbAFb76460
 --------------------
